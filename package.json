@@ -1,0 +1,22 @@
+{
+  "name": "fsdb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "fsdb.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbmeads/fsdb.git"
+  },
+  "author": "David Meads <dbmeads@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbmeads/fsdb/issues"
+  },
+  "homepage": "https://github.com/dbmeads/fsdb",
+  "dependencies": {
+    "uuid": "~1.4.1",
+    "js-beautify": "~1.4.2",
+    "underscore": "~1.5.2",
+    "requireall": "0.0.1"
+  }
+}
